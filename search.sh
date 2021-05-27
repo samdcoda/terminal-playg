@@ -1,2 +1,3 @@
 #search options in terminal
-grep |
+grep | # for string in file
+find and locate
